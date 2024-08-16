@@ -7,7 +7,7 @@ const OrderHistoryScreen = () => {
       <Text>OrderHistoryScreen</Text>
     </View>
   )
-}
+} 
 
 export default OrderHistoryScreen
 
